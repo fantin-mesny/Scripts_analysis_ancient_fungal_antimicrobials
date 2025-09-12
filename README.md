@@ -6,9 +6,10 @@
 The AMAPEC software is available, together with the training dataset and the training pipeline at [github.com/fantin-mesny/amapec](https://github.com/fantin-mesny/amapec)
 
 ### Analysis of the secretomes of 3 phylogenetically distant fungi with distinct lifestyles:
-*To be uploaded*
+- All data and analysis script in https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Analysis%20of%203%20secretomes
 
 ### Comparative genomics in a dataset of 150 fungal secretomes
+- Secretomes and orthology prediction data in https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Comparative%20genomics%20of%20150%20fungal%20secretomes
 - Tool to extract the most central, representative protein in a protein family available at [github.com/fantin-mesny/phylorep](https://github.com/fantin-mesny/phylorep)
   
 *More to be uploaded*
