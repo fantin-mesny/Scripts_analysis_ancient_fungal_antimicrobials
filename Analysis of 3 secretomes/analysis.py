@@ -20,13 +20,6 @@ def parseTMbed(filename):
             pred.loc[fileLines[lineN][1:-1],'Number of TM domains']=len([domain for domain in fileLines[lineN+2][:-1].split('.') if domain!='' and list(set(domain))[0]!='S'])
     return pred[pred['Number of TM domains']>0]
 
-def autopct_format(values):
-    def my_format(pct):
-        total = sum(values)
-        val = int(round(pct*total/100.0))
-        return '{v:d}'.format(v=val)
-    return my_format
-
 
 org=['Verticillium','Coprinopsis','Rhizophagus']
 dic={}
@@ -90,7 +83,7 @@ for o in org:
 	col=['tmpred:Transmembrane']+col
 
 	# export supplementary tables
-	annot[col].drop(columns='NA').to_csv(o+'.suptable.tsv',sep='\t')
+	annot[col].drop(columns='NA').to_csv('output/'+o+'.suptable.tsv',sep='\t')
 
 	# parse antimicrobial activity predictions from AMAPEC
 	pred=pd.read_csv('data/'+o+'/AMAPEC_prediction.csv').set_index('Protein ID')
@@ -116,7 +109,7 @@ stacked_pred_pc=stacked_pred.div(stacked_pred.sum(axis=1), axis=0)
 fig,ax=plt.subplots(1,2,figsize=(9,4))
 stacked_annot.plot.barh(ax=ax[0],stacked=True,color=['#ebc934','#91cf60', '#91bfdb','lightgrey'])
 stacked_pred_pc.plot.barh(ax=ax[1],stacked=True,color=['#ff5555', '#999999'])
-plt.savefig('barchart_figure.pdf')
+plt.savefig('output/barchart_figure.pdf')
 plt.close()
 
 
@@ -156,7 +149,7 @@ Vd = set(ortho_am[ortho_am['Verticillium']==1].index)
 Ri = set(ortho_am[ortho_am['Rhizophagus']==1].index)
 Cc = set(ortho_am[ortho_am['Coprinopsis']==1].index)
 venn3([Vd, Ri, Cc], ('Verticillium', 'Rhizophagus', 'Coprinopsis'))
-plt.savefig('venn_am.pdf')
+plt.savefig('output/venn_am.pdf')
 plt.close()
 ortho_nam=deepcopy(ortho)
 for og in ortho_nam.index:
@@ -177,7 +170,7 @@ Vd = set(ortho_nam[ortho_nam['Verticillium']==1].index)
 Ri = set(ortho_nam[ortho_nam['Rhizophagus']==1].index)
 Cc = set(ortho_nam[ortho_nam['Coprinopsis']==1].index)
 venn3([Vd, Ri, Cc], ('Verticillium', 'Rhizophagus', 'Coprinopsis'))
-plt.savefig('venn_nam.pdf')
+plt.savefig('output/venn_nam.pdf')
 plt.close()
 
 # Barplots showing conservation of antimicrobials
@@ -189,7 +182,7 @@ fig,ax=plt.subplots(1,1,figsize=(1,1.75))
 sns.barplot(ax=ax,x='Group',y='Number of proteins',data=bar_df[bar_df['Sharedness']=='3+2+1'],color='lightgrey')
 sns.barplot(ax=ax,x='Group',y='Number of proteins',data=bar_df[bar_df['Sharedness']=='3+2'],color='grey')
 sns.barplot(ax=ax,x='Group',y='Number of proteins',data=bar_df[bar_df['Sharedness']==3.0],color='black')
-plt.savefig('barplot_conservation.pdf')
+plt.savefig('output/barplot_conservation.pdf')
 plt.close()
 
 
