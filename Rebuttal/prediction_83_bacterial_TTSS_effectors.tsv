@@ -1,0 +1,89 @@
+Effector	Organism	Protein ID	pLDDT	Probability	Prediction
+yopM	Yersinia enterocolitica serotype O:8/biotype 1B (strain 8081)	A1JU68_YERE8	85,95	0,12	Non-antimicrobial
+tccP2	Escherichia coli O157:H-	A2A0X3_ECOLX	51,39	0,01	Non-antimicrobial
+avrA	Pseudomonas syringae pv. glycinea	AVRA_PSESG	67,32	0,00	Non-antimicrobial
+avrB	Pseudomonas syringae pv. glycinea	AVRB_PSESG	89,75	0,15	Non-antimicrobial
+avrPphD	Pseudomonas syringae pv. phaseolicola	AVRD1_PSESH	61,08	0,00	Non-antimicrobial
+avrPpiC2	Pseudomonas syringae pv. pisi	AVRP2_PSESJ	85,54	0,32	Non-antimicrobial
+espA	Escherichia coli O127:H6 (strain E2348/69/EPEC)	B7UM94_ECO27	80,91	0,09	Non-antimicrobial
+hopAE1	Pseudomonas syringae pv. syringae (strain B728a)	HOAE1_PSEU2	60,62	0,00	Non-antimicrobial
+hopM1	Pseudomonas syringae pv. tomato	HOPM1_PSESM	81,65	0,00	Non-antimicrobial
+hopAB1	Pseudomonas syringae pv. phaseolicola	HPAB1_PSESH	61,27	0,01	Non-antimicrobial
+hrmA	Pseudomonas syringae pv. syringae	HRMA_PSESY	79,14	0,12	Non-antimicrobial
+incA	Chlamydia trachomatis	INCA_CHLTR	81,68	0,00	Non-antimicrobial
+incD	Chlamydia trachomatis	INCD_CHLTR	68,35	0,12	Non-antimicrobial
+incE	Chlamydia trachomatis	INCE_CHLTR	54,78	0,00	Non-antimicrobial
+incF	Chlamydia trachomatis	INCF_CHLTR	60,36	0,02	Non-antimicrobial
+incG	Chlamydia trachomatis	INCG_CHLTR	57,34	0,00	Non-antimicrobial
+incC	Chlamydophila caviae	O30783_CHLCV	52,77	0,00	Non-antimicrobial
+copN	Chlamydophila caviae	O34020_CHLCV	79,47	0,03	Non-antimicrobial
+incB	Chlamydia trachomatis	O84235_CHLTR	56,49	0,01	Non-antimicrobial
+incC	Chlamydia trachomatis	O84236_CHLTR	54,04	0,01	Non-antimicrobial
+yopO	Yersinia enterocolitica	O85239_YEREN	85,84	0,16	Non-antimicrobial
+espG	Escherichia coli	O85646_ECOLX	87,75	0,04	Non-antimicrobial
+incA	Chlamydophila caviae	Q46210_CHLCV	67,05	0,01	Non-antimicrobial
+AvrE1	Pseudomonas syringae	Q52389_PSESX	58,84	0,00	Non-antimicrobial
+avrPphE	Pseudomonas syringae pv. phaseolicola	Q52394_PSESH	80,41	0,70	Antimicrobial
+avrRps4	Pseudomonas syringae	Q52432_PSESX	64,31	0,13	Non-antimicrobial
+avrD	Pseudomonas syringae pv. phaseolicola	Q52530_PSESH	89,40	0,03	Non-antimicrobial
+avrPmaA1	Pseudomonas syringae	Q52537_PSESX	78,95	0,19	Non-antimicrobial
+ypkA	Yersinia enterocolitica	Q56921_YEREN	87,21	0,03	Non-antimicrobial
+yopK	Yersinia pseudotuberculosis	Q56935_YERPS	59,38	0,67	Antimicrobial
+tir	Escherichia coli	Q58I88_ECOLX	43,03	0,00	Non-antimicrobial
+yopM	Yersinia pseudotuberculosis	Q663L9_YERPS	87,40	0,57	Antimicrobial
+hopAG1	Pseudomonas syringae pv. syringae (strain B728a)	Q7PC45_PSEU2	73,64	0,30	Non-antimicrobial
+DUF1547-containing effector	Chlamydophila caviae	Q824H6_CHLCV	41,60	0,00	Non-antimicrobial
+HopAN1	Pseudomonas syringae pv. tomato	Q87V79_PSESM	94,34	0,50	Antimicrobial
+hopI1	Pseudomonas syringae pv. tomato	Q87W07_PSESM	48,06	0,07	Non-antimicrobial
+hopG1	Pseudomonas syringae pv. tomato	Q87W42_PSESM	75,00	0,00	Non-antimicrobial
+hopV1	Pseudomonas syringae pv. tomato	Q87W46_PSESM	82,50	0,00	Non-antimicrobial
+hopT1-2	Pseudomonas syringae pv. tomato	Q87WF7_PSESM	66,51	0,92	Antimicrobial
+hopE1	Pseudomonas syringae pv. tomato	Q87X57_PSESM	92,63	0,29	Non-antimicrobial
+hopAK1	Pseudomonas syringae pv. tomato	Q87XS5_PSESM	69,28	0,03	Non-antimicrobial
+hopL1	Pseudomonas syringae pv. tomato	Q881L7_PSESM	85,52	0,39	Non-antimicrobial
+hopP1	Pseudomonas syringae pv. tomato	Q882F0_PSESM	69,33	0,68	Antimicrobial
+hopAF1	Pseudomonas syringae pv. tomato	Q886L1_PSESM	71,70	0,25	Non-antimicrobial
+hopAI1	Pseudomonas syringae pv. tomato	Q888W0_PSESM	88,97	0,76	Antimicrobial
+hopQ1-1	Pseudomonas syringae pv. tomato	Q888Y7_PSESM	84,10	0,00	Non-antimicrobial
+hopAJ1	Pseudomonas syringae pv. tomato	Q889A9_PSESM	89,61	0,00	Non-antimicrobial
+hopH1	Pseudomonas syringae pv. tomato	Q88A09_PSESM	93,00	0,32	Non-antimicrobial
+hopAS1	Pseudomonas syringae pv. tomato	Q88AB8_PSESM	58,15	0,41	Non-antimicrobial
+hopY1	Pseudomonas syringae pv. tomato	Q88BF6_PSESM	59,56	0,03	Non-antimicrobial
+hopPtoA1Pma	Pseudomonas syringae pv. maculicola	Q8RP03_PSEYM	62,85	0,00	Non-antimicrobial
+tccP	Escherichia coli O157:H7	Q8X2D5_ECO57	56,74	0,02	Non-antimicrobial
+tccP	Escherichia coli O157:H7	Q8X2D5_ECO57	56,94	0,00	Non-antimicrobial
+yopP	Yersinia enterocolitica	Q93KQ5_YEREN	90,66	0,37	Non-antimicrobial
+hopN1	Pseudomonas syringae pv. tomato	Q9JP32_PSESM	70,92	0,17	Non-antimicrobial
+avrPphF	Pseudomonas syringae pv. phaseolicola	Q9K2L5_PSESH	82,16	0,73	Antimicrobial
+hopB1	Pseudomonas syringae pv. tomato	Q9L6W4_PSESM	73,00	0,01	Non-antimicrobial
+IncA	Chlamydia pneumoniae	Q9Z7W9_CHLPN	74,10	0,00	Non-antimicrobial
+copN	Chlamydia pneumoniae	Q9Z8L4_CHLPN	82,38	0,34	Non-antimicrobial
+incC	Chlamydia pneumoniae	Q9Z8P6_CHLPN	56,00	0,00	Non-antimicrobial
+incB	Chlamydia pneumoniae	Q9Z8P7_CHLPN	49,57	0,00	Non-antimicrobial
+incA	Chlamydia pneumoniae	Q9Z8Z8_CHLPN	76,31	0,58	Antimicrobial
+sifA	Salmonella typhimurium	SIFA_SALTY	86,09	0,01	Non-antimicrobial
+sspA	Salmonella typhimurium	SIPA_SALTY	62,05	0,53	Antimicrobial
+sigD	Salmonella typhimurium	SOPB_SALTY	91,09	0,01	Non-antimicrobial
+sopD	Salmonella typhimurium	SOPD_SALTY	88,94	0,13	Non-antimicrobial
+sopE2	Salmonella typhimurium	SOPE2_SALTY	79,66	0,52	Antimicrobial
+invJ	Salmonella typhimurium	SPAN_SALTY	44,89	0,01	Non-antimicrobial
+sptP	Salmonella typhimurium	SPTP_SALTY	82,23	0,23	Non-antimicrobial
+tarP	Chlamydia trachomatis	TARP_CHLTR	45,06	0,00	Non-antimicrobial
+DUF1547-containing effector	Chlamydia pneumoniae	Y572_CHLPN	47,64	1,00	Antimicrobial
+yopE	Yersinia enterocolitica	YOPE_YEREN	73,89	0,01	Non-antimicrobial
+yopE	Yersinia enterocolitica	YOPE_YEREN	73,89	0,01	Non-antimicrobial
+yopE	Yersinia pseudotuberculosis	YOPE_YERPS	74,97	0,02	Non-antimicrobial
+yopH	Yersinia enterocolitica	YOPH_YEREN	81,63	0,46	Non-antimicrobial
+yop2b	Yersinia pseudotuberculosis	YOPH_YERPS	84,45	0,09	Non-antimicrobial
+yopJ	Yersinia pseudotuberculosis	YOPJ_YERPS	90,92	0,15	Non-antimicrobial
+yopM	Yersinia pestis	YOPM_YERPE	89,12	0,23	Non-antimicrobial
+yopQ	Yersinia enterocolitica	YOPQ_YEREN	60,20	0,10	Non-antimicrobial
+yscH	Yersinia enterocolitica	YOPR_YEREN	74,10	0,01	Non-antimicrobial
+yscH	Yersinia pestis	YOPR_YERPE	73,72	0,09	Non-antimicrobial
+yscH	Yersinia pseudotuberculosis	YOPR_YERPS	74,98	0,03	Non-antimicrobial
+yopT1	Yersinia enterocolitica	YOPT1_YEREN	81,21	0,04	Non-antimicrobial
+yopT	Yersinia enterocolitica	YOPT_YEREN	82,82	0,07	Non-antimicrobial
+yopT	Yersinia pestis	YOPT_YERPE	82,60	0,03	Non-antimicrobial
+yopT	Yersinia pseudotuberculosis	YOPT_YERPS	81,72	0,07	Non-antimicrobial
+ypkA	Yersinia pestis	YPKA_YERPE	86,82	0,08	Non-antimicrobial
+ypkA	Yersinia pseudotuberculosis	YPKA_YERPS	86,72	0,02	Non-antimicrobial
