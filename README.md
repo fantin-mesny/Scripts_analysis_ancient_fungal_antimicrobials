@@ -11,8 +11,6 @@ The AMAPEC software is available, together with the training dataset and the tra
 ### Comparative genomics in a dataset of 150 fungal secretomes
 - Secretomes and orthology prediction data in [Comparative genomics of 150 secretomes](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Comparative%20genomics%20of%20150%20fungal%20secretomes)
 - Tool to extract the most central, representative protein in a protein family available at [github.com/fantin-mesny/phylorep](https://github.com/fantin-mesny/phylorep)
-  
-*More to be uploaded*
 
 ### Prediction of antimicrobial activities among known host manipulating effectors
 *To be uploaded*
@@ -25,3 +23,4 @@ The AMAPEC software is available, together with the training dataset and the tra
 
 ### Analysis of tomato plant infection experiments in gnotobiotic system
 - All data and analysis scripts in [Experiment in tomato plants](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Experiment%20with%20tomato%20plants)
+*More to be uploaded*
