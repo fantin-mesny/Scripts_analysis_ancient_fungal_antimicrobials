@@ -19,7 +19,7 @@ The AMAPEC software is available, together with the training dataset and the tra
 *To be uploaded*
 
 ### Analysis of Vd424Y gene expression in soils
-*To be uploaded*
+- Relative expression data in [Effector gene expression in soil](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Effector%20gene%20expression%20in%20soil/data)
 
 ### Analysis of tomato plant infection experiments in gnotobiotic system
 - Plant phenotyping data, microbiota profiling data and analysis scripts in [Experiment in tomato plants](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Experiment%20with%20tomato%20plants)
