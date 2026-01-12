@@ -25,4 +25,4 @@ The AMAPEC software is available, together with the training dataset and the tra
 - Plant phenotyping data, microbiota profiling data and analysis scripts in [Experiment in tomato plants](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Experiment%20with%20tomato%20plants)
 
 ### Analysis of *Penicillium* soil colonization assay
-*To be uploaded*
+- Soil colonization data and analysis script in [Soil colonization by Penicillium](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Soil%20colonization%20by%20Penicillium)
