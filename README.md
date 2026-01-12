@@ -13,7 +13,7 @@ The AMAPEC software is available, together with the training dataset and the tra
 - Tool to extract the most central, representative protein in a protein family available at [github.com/fantin-mesny/phylorep](https://github.com/fantin-mesny/phylorep)
 
 ### Prediction of antimicrobial activities among known host manipulating effectors
-- Prediction data and analysis script in [Analysis of PHI-Base effectors]([https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Comparative%20genomics%20of%20150%20fungal%20secretomes](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Analysis%20of%20PHI-Base%20effectors)
+- Prediction data and analysis script in [Analysis of PHI-Base effectors](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Comparative%20genomics%20of%20150%20fungal%20secretomes](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Analysis%20of%20PHI-Base%20effectors)
 
 ### Analysis of in vitro antimicrobial assays with heterologously produced effector proteins
 *To be uploaded*
