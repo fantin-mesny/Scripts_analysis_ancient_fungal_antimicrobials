@@ -22,5 +22,4 @@ The AMAPEC software is available, together with the training dataset and the tra
 *To be uploaded*
 
 ### Analysis of tomato plant infection experiments in gnotobiotic system
-- All data and analysis scripts in [Experiment in tomato plants](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Experiment%20with%20tomato%20plants)
-*More to be uploaded*
+- Plant phenotyping data, microbiota profiling data and analysis scripts in [Experiment in tomato plants](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Experiment%20with%20tomato%20plants)
