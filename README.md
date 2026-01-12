@@ -16,7 +16,7 @@ The AMAPEC software is available, together with the training dataset and the tra
 - Prediction data and analysis script in [Analysis of PHI-Base effectors](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Analysis%20of%20PHI-Base%20effectors)
 
 ### Analysis of in vitro antimicrobial assays with heterologously produced effector proteins
-*To be uploaded*
+- Microbial growth data and analysis scripts in [Microbial growth restriction assays](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Microbial%20growth%20restriction%20assays)
 
 ### Analysis of Vd424Y gene expression in soils
 - Relative expression data in [Effector gene expression in soil](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Effector%20gene%20expression%20in%20soil/data)
