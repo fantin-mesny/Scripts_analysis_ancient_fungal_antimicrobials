@@ -1,6 +1,7 @@
-
-
 ## Scripts used for data analysis in the study '**Plant-associated fungi co-opt ancient antimicrobials for host manipulation**'.
+
+This repository contains biological data and analyses scripts generated and used in the study **Plant-associated fungi co-opt ancient antimicrobials for host manipulation** (Mesny et al., 2026).
+
 
 ### Antimicrobial activity predictor for fungal effector candidates (AMAPEC):
 The AMAPEC software is available, together with the training dataset and the training pipeline at [github.com/fantin-mesny/amapec](https://github.com/fantin-mesny/amapec)
