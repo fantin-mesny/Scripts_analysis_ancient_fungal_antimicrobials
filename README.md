@@ -1,6 +1,6 @@
 ## Scripts used for data analysis in the study '**Plant-associated fungi co-opt ancient antimicrobials for host manipulation**'.
 
-This repository contains biological data and analyses scripts generated and used in the study **Plant-associated fungi co-opt ancient antimicrobials for host manipulation** (Mesny et al., 2026).
+This repository contains biological data and analyses scripts generated and used in the study **Plant-associated fungi co-opt ancient antimicrobials for host manipulation** (Mesny **et al.**, 2026).
 
 
 ### Antimicrobial activity predictor for fungal effector candidates (AMAPEC):
@@ -16,7 +16,7 @@ The AMAPEC software is available, together with the training dataset and the tra
 ### Prediction of antimicrobial activities among known host manipulating effectors
 - Prediction data and analysis script in [Analysis of PHI-Base effectors](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Analysis%20of%20PHI-Base%20effectors)
 
-### Analysis of in vitro antimicrobial assays with heterologously produced effector proteins
+### Analysis of **in vitro** antimicrobial assays with heterologously produced effector proteins
 - Microbial growth data and analysis scripts in [Microbial growth restriction assays](https://github.com/fantin-mesny/Scripts_analysis_ancient_fungal_antimicrobials/tree/main/Microbial%20growth%20restriction%20assays)
 
 ### Analysis of Vd424Y gene expression in soils
